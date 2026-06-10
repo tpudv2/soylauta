@@ -1,6 +1,6 @@
 /* ============================================================
    soylauta — bold personal brand site (DARK / reference look)
-   Type: Anton (display) · Pirata One (blackletter accent)
+   Type: Interstate (display) · Pirata One (blackletter accent)
          Space Grotesk (text) · Space Mono (labels/buttons)
    Palette: black + warm white + one acid-lime accent
    ============================================================ */
@@ -17,8 +17,8 @@
   --line-strong: #4a4a46;
   --maxw: 1600px;
   --nav-h: 76px;
-  --font-display: 'Anton', 'Arial Narrow', sans-serif;
-  --font-black: 'Pirata One', 'Anton', serif;
+  --font-display: 'Interstate', 'Arial Narrow', 'Helvetica Neue', sans-serif;
+  --font-black: 'Pirata One', 'Interstate', serif;
   --font-text: 'Space Grotesk', system-ui, sans-serif;
   --font-mono: 'Space Mono', ui-monospace, monospace;
 }

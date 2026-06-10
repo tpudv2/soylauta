@@ -157,7 +157,7 @@
      ============================================================ */
   var TWEAK_DEFS = {
     accent: '#c9f23a',
-    font: 'Anton'
+    font: 'Interstate'
   };
   var ACCENTS = {
     'Acid lime': '#c9f23a',
@@ -166,7 +166,7 @@
     'Cyber pink': '#ff4fd8'
   };
   var FONTS = {
-    'Anton': "'Anton', sans-serif",
+    'Interstate': "'Interstate', 'Arial Narrow', 'Helvetica Neue', sans-serif",
     'Archivo Black': "'Archivo Black', sans-serif",
     'Syne': "'Syne', sans-serif"
   };
@@ -178,7 +178,7 @@
   function saveTweaks(t) { localStorage.setItem('soylauta-tweaks', JSON.stringify(t)); }
 
   function ensureFont(name) {
-    if (name === 'Anton') return;
+    if (name === 'Interstate') return;
     var id = 'font-' + name.replace(/\s/g, '');
     if (document.getElementById(id)) return;
     var l = document.createElement('link');
