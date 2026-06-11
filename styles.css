@@ -17,8 +17,8 @@
   --line-strong: #4a4a46;
   --maxw: 1600px;
   --nav-h: 76px;
-  --font-display: 'Interstate', 'Arial Narrow', 'Helvetica Neue', sans-serif;
-  --font-black: 'Pirata One', 'Interstate', serif;
+  --font-display: 'Fjalla One', 'Arial Narrow', sans-serif;
+  --font-black: 'Pirata One', 'Fjalla One', serif;
   --font-text: 'Space Grotesk', system-ui, sans-serif;
   --font-mono: 'Space Mono', ui-monospace, monospace;
 }
